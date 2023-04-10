@@ -43,7 +43,7 @@ class Area{
           break;
    case 3:System.out.println(" Enter Radius of Circle : ");
           r=inp.nextDouble();
-          System.out.println(" Area Of Square : "+Obj.area(r));
+          System.out.println(" Area Of Circle : "+Obj.area(r));
           break;
    case 4:System.out.println("\n\n T H A N K    Y O U \n");
           break;   
